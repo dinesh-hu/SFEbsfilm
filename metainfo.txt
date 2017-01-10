@@ -17,7 +17,7 @@ Input:
 - sigma: Volatility
 - r: Risk free interest rate
 - K: Strike price
-- t:time (0.1 unit = 365/10= 36.5 days)
+- t : time (t=1-tau)
 
 
 Output : A shiny app with animation 
